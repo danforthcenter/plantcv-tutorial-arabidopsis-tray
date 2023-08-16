@@ -9,4 +9,4 @@ Create a Binder launch button:
 
 ## Tutorial tags/keywords
 
-plant shoot, multi-plant, RGB, shape analysis, arabidopsis, tray
+plant shoot, multi-plant, RGB, shape analysis, arabidopsis, tray, germination rate, growth rate
